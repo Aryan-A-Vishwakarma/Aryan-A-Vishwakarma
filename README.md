@@ -6,82 +6,109 @@
 
 ### Artificial Intelligence & Machine Learning Engineering Student
 
-*Building. Learning. Improving.*
+<a href="https://www.linkedin.com/in/aryanv1sh/">
+<img src="https://img.shields.io/badge/LinkedIn-Aryan%20Vishwakarma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:aryan173817@gmail.com">
+<img src="https://img.shields.io/badge/Email-aryan173817%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-I'm an **Artificial Intelligence & Machine Learning engineering student** focused on building strong foundations in programming, data, and intelligent systems.
+|     🎓 Education    |  📍 Location  |              💻 Specialization             |
+| :-----------------: | :-----------: | :----------------------------------------: |
+| AI & ML Engineering | Mumbai, India | Artificial Intelligence & Machine Learning |
 
-Currently developing my skills in **Python, Data Structures & Algorithms, Data Analysis, and Machine Learning**, while applying what I learn through practical projects.
-
-I enjoy understanding how things work, building solutions from scratch, and continuously improving my technical skills.
-
----
-
-## 🛠️ Technical Skills
-
-### 💻 Programming Languages
-
-`Python` · `Java` · `JavaScript` · `PHP` · `C (Basic)`
-
-### 📊 Data & Machine Learning
-
-`Data Cleaning` · `Data Visualization` · `Machine Learning (Basic)`
-
-### 📚 Libraries & Frameworks
-
-`NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `Flask`
-
-### 🗄️ Database & Tools
-
-`MySQL` · `Git` · `GitHub`
+</div>
 
 ---
 
-## 🚀 Projects
+# 👨‍💻 About
 
-### 🎓 Student Placement Predictor
+I'm **Aryan**, an Artificial Intelligence & Machine Learning engineering student with a focus on **programming, data analysis, and machine learning**.
 
-A machine learning project designed to predict student placement outcomes using relevant academic and student-related factors.
-
-**Focus:** `Machine Learning` · `Data Processing` · `Prediction`
+I work with Python and other programming languages, along with data science libraries, machine learning tools, databases, and development technologies.
 
 ---
 
-### 🚦 Traffic Controller System
+# 🛠️ Technical Skills
 
-A Python-based traffic management system that simulates traffic flow across multiple directions and manages signal cycles based on traffic density.
+<div align="center">
 
-**Focus:** `Python` · `Logic Building` · `Traffic Simulation`
+<img src="https://skillicons.dev/icons?i=python,java,js,php,c,numpy,pandas,flask,mysql,git,github,vscode" />
+
+<br><br>
+
+`Python` · `Java` · `JavaScript` · `PHP` · `C (Basic)` · `NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `Flask` · `MySQL` · `Git` · `GitHub` · `VS Code` · `Data Cleaning` · `Data Visualization` · `Machine Learning (Basic)`
+
+</div>
 
 ---
 
-## 🎯 Current Focus
+# 🚀 Projects
 
-```text
-Python
-   ↓
-Data Structures & Algorithms
-   ↓
-Data Analysis
-   ↓
-Machine Learning
-   ↓
-Artificial Intelligence
-```
+## 🎓 Student Placement Predictor
 
-I'm currently focused on strengthening my fundamentals and turning what I learn into practical projects.
+Machine learning project for predicting student placement outcomes using academic and student-related factors.
+
+**Technologies**
+
+`Python` · `Machine Learning` · `Data Processing` · `Prediction`
+
+---
+
+## 🚦 Traffic Controller System
+
+Python-based traffic management system that simulates traffic flow across multiple directions and manages signal cycles based on traffic density.
+
+**Technologies**
+
+`Python` · `Logic Building` · `Traffic Simulation`
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180">
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180">
+
+</div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake">
+
+</div>
 
 ---
 
 <div align="center">
 
-### BUILD • LEARN • IMPROVE
+### ARYAN
 
-📍 **Mumbai, India**
+**Artificial Intelligence & Machine Learning Engineering Student**
+
+📍 Mumbai, India
+
+<br>
+
+<a href="https://www.linkedin.com/in/aryanv1sh/">LinkedIn</a>
+  •   <a href="mailto:aryan173817@gmail.com">Email</a>
+  •   <a href="https://github.com/YOUR_USERNAME">GitHub</a>
 
 </div>
