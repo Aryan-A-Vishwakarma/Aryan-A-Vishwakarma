@@ -1,51 +1,87 @@
-# Aryan Vishwakarma
+<div align="center">
 
-### AIML Engineering Student · Developer · AI/ML
+<img src="./assets/aryan-banner.png" width="100%" alt="ARYAN">
 
-<img align="right" src="https://komarev.com/ghpvc/?username=Aryan-A-Vishwakarma&style=flat-square&color=grey" />
+# ARYAN
 
-I'm an **Artificial Intelligence & Machine Learning engineering student** interested in building things that combine software, data, and intelligent systems.
+### Artificial Intelligence & Machine Learning Engineering Student
 
-Currently strengthening my foundations in **Python, DSA and Machine Learning**, while building projects along the way.
+*Building. Learning. Improving.*
 
-<br>
-
-### `01` — CURRENTLY
-
-```text
-Python                 █████████░░
-Data Structures        ██████░░░░░
-Machine Learning       ████░░░░░░
-AI                     ███░░░░░░░░
-```
-
-### `02` — STACK
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,git,github,vscode" />
-</p>
-
-### `03` — BUILDING
-
-> Turning what I learn into projects instead of keeping it theoretical.
-
-**Current interests**
-
-`Artificial Intelligence` · `Machine Learning` · `DSA` · `Python` · `Data`
-
-### `04` — DIRECTION
-
-**Learn → Build → Solve → Improve**
-
-My long-term goal is to become a strong **ML Engineer** and work on systems that have real-world impact.
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan-A-Vishwakarma&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-A-Vishwakarma&hide_border=true&theme=transparent" height="160"/>
-</p>
+## 👨‍💻 About Me
 
-<p align="center">
-  <sub> Mumbai, India · Building one commit at a time.</sub>
-</p>
+I'm an **Artificial Intelligence & Machine Learning engineering student** focused on building strong foundations in programming, data, and intelligent systems.
+
+Currently developing my skills in **Python, Data Structures & Algorithms, Data Analysis, and Machine Learning**, while applying what I learn through practical projects.
+
+I enjoy understanding how things work, building solutions from scratch, and continuously improving my technical skills.
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+
+`Python` · `Java` · `JavaScript` · `PHP` · `C (Basic)`
+
+### 📊 Data & Machine Learning
+
+`Data Cleaning` · `Data Visualization` · `Machine Learning (Basic)`
+
+### 📚 Libraries & Frameworks
+
+`NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `Flask`
+
+### 🗄️ Database & Tools
+
+`MySQL` · `Git` · `GitHub`
+
+---
+
+## 🚀 Projects
+
+### 🎓 Student Placement Predictor
+
+A machine learning project designed to predict student placement outcomes using relevant academic and student-related factors.
+
+**Focus:** `Machine Learning` · `Data Processing` · `Prediction`
+
+---
+
+### 🚦 Traffic Controller System
+
+A Python-based traffic management system that simulates traffic flow across multiple directions and manages signal cycles based on traffic density.
+
+**Focus:** `Python` · `Logic Building` · `Traffic Simulation`
+
+---
+
+## 🎯 Current Focus
+
+```text
+Python
+   ↓
+Data Structures & Algorithms
+   ↓
+Data Analysis
+   ↓
+Machine Learning
+   ↓
+Artificial Intelligence
+```
+
+I'm currently focused on strengthening my fundamentals and turning what I learn into practical projects.
+
+---
+
+<div align="center">
+
+### BUILD • LEARN • IMPROVE
+
+📍 **Mumbai, India**
+
+</div>
