@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./assets/aryan-banner.png" width="100%" alt="ARYAN">
-
-# ARYAN
+# **ARYAN VISHWAKARMA**
 
 ### Artificial Intelligence & Machine Learning Engineering Student
 
@@ -29,7 +27,7 @@
 
 # 👨‍💻 About
 
-I'm **Aryan**, an Artificial Intelligence & Machine Learning engineering student with a focus on **programming, data analysis, and machine learning**.
+I'm **Aryan Vishwakarma**, an Artificial Intelligence & Machine Learning engineering student with a focus on **programming, data analysis, and machine learning**.
 
 I work with Python and other programming languages, along with data science libraries, machine learning tools, databases, and development technologies.
 
@@ -75,13 +73,13 @@ Python-based traffic management system that simulates traffic flow across multip
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=Aryan-A-Vishwakarma&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-A-Vishwakarma&layout=compact&theme=tokyonight&hide_border=true" height="180">
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-A-Vishwakarma&theme=tokyonight&hide_border=true" height="180">
 
 </div>
 
@@ -99,7 +97,7 @@ Python-based traffic management system that simulates traffic flow across multip
 
 <div align="center">
 
-### ARYAN
+## ARYAN VISHWAKARMA
 
 **Artificial Intelligence & Machine Learning Engineering Student**
 
@@ -109,6 +107,6 @@ Python-based traffic management system that simulates traffic flow across multip
 
 <a href="https://www.linkedin.com/in/aryanv1sh/">LinkedIn</a>
   •   <a href="mailto:aryan173817@gmail.com">Email</a>
-  •   <a href="https://github.com/YOUR_USERNAME">GitHub</a>
+  •   <a href="https://github.com/Aryan-A-Vishwakarma">GitHub</a>
 
 </div>
