@@ -37,11 +37,11 @@ I work with Python and other programming languages, along with data science libr
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,php,c,numpy,pandas,flask,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,js,php,c,numpy,pandas,mysql,git,github" />
 
 <br><br>
 
-`Python` · `Java` · `JavaScript` · `PHP` · `C (Basic)` · `NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `Flask` · `MySQL` · `Git` · `GitHub` · `VS Code` · `Data Cleaning` · `Data Visualization` · `Machine Learning (Basic)`
+`Python` · `Java` · `JavaScript` · `PHP` · `C (Basic)` · `NumPy` · `Pandas` · `SciPy` · `Matplotlib` · `Seaborn` · `Streamlit` · `MySQL` · `Git` · `GitHub` · `Statistical Analysis` · `Data Cleaning` · `Data Visualization` · `Machine Learning (Basic)`
 
 </div>
 
@@ -49,39 +49,45 @@ I work with Python and other programming languages, along with data science libr
 
 # 🚀 Projects
 
-## 🎓 Student Placement Predictor
+## 🔎 Paradox Hunter
 
-Machine learning project for predicting student placement outcomes using academic and student-related factors.
+Python tool that automatically detects **Simpson's paradox**: cases where an overall average is misleading because of a hidden factor. It scans every column pair, uses statistical tests to avoid false alarms, and explains the problem in plain English. Includes a Streamlit dashboard and automated tests.
+
+**Highlights:** showed that the apparent gender gap in UC Berkeley admissions is explained by department choice, and produced 0 false alarms across 15 random-noise datasets.
 
 **Technologies**
 
-`Python` · `Machine Learning` · `Data Processing` · `Prediction`
+`Python` · `Pandas` · `SciPy` · `Statistics` · `Streamlit`
+
+🔗 [View project](https://github.com/Aryan-A-Vishwakarma/paradox-hunter)
+
+---
+
+## 🎓 Student Placement Predictor
+
+Machine learning project that predicts whether a student will be placed in campus recruitment, based on academic and student-related factors. It covers the full workflow: exploratory data analysis, model training, comparison of two models, and an interactive Streamlit app for making predictions.
+
+**Highlights:** compared **Logistic Regression** and **Random Forest** classifiers on a synthetic student dataset.
+
+**Technologies**
+
+`Python` · `Machine Learning` · `Logistic Regression` · `Random Forest` · `EDA` · `Streamlit` · `Jupyter Notebook`
+
+🔗 [View project](https://github.com/Aryan-A-Vishwakarma/student-placement-predictor)
 
 ---
 
 ## 🚦 Traffic Controller System
 
-Python-based traffic management system that simulates traffic flow across multiple directions and manages signal cycles based on traffic density.
+Python-based traffic management system that simulates traffic flow across multiple directions and decides signal timing based on how heavy the traffic is on each road. Instead of fixed timers, the signal cycle adapts to traffic density.
+
+**Highlights:** built entirely with core Python logic, which strengthened my skills in problem solving and program design.
 
 **Technologies**
 
 `Python` · `Logic Building` · `Traffic Simulation`
 
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aryan-A-Vishwakarma&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-A-Vishwakarma&layout=compact&theme=tokyonight&hide_border=true" height="180">
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-A-Vishwakarma&theme=tokyonight&hide_border=true" height="180">
-
-</div>
+🔗 [View project](https://github.com/Aryan-A-Vishwakarma/Traffic-Controller)
 
 ---
 
@@ -89,7 +95,7 @@ Python-based traffic management system that simulates traffic flow across multip
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake">
+<img src="https://raw.githubusercontent.com/Aryan-A-Vishwakarma/Aryan-A-Vishwakarma/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake">
 
 </div>
 
@@ -106,7 +112,7 @@ Python-based traffic management system that simulates traffic flow across multip
 <br>
 
 <a href="https://www.linkedin.com/in/aryanv1sh/">LinkedIn</a>
-  •   <a href="mailto:aryan173817@gmail.com">Email</a>
-  •   <a href="https://github.com/Aryan-A-Vishwakarma">GitHub</a>
+  •   <a href="mailto:aryan173817@gmail.com">Email</a>
+  •   <a href="https://github.com/Aryan-A-Vishwakarma">GitHub</a>
 
 </div>
